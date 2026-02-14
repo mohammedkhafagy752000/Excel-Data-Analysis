@@ -40,5 +40,5 @@ This project was inspired by **educational YouTube tutorials**.
 - Export dashboards into **professional reports or presentations**.  
 - Integrate with **SQL Server or Power BI** for advanced analysis.
 
-## Screenshots (Optional)
+## Screenshots 
 ![Dashboard Screenshot](images/dashboard.png)
