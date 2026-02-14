@@ -1,7 +1,5 @@
 # Excel-Data-Analysis
 # Sales Data Analysis Project
-# Excel-Data-Analysis
-# Sales Data Analysis Project
 ## Project Description
 This project demonstrates a practical **Sales Data Analysis** using Microsoft Excel.  
 It includes an **interactive dashboard** and several **Pivot Tables** to explore sales performance across regions, categories, and customer types.  
